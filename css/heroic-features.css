@@ -16,6 +16,18 @@ body {
     margin-bottom: 30px;
 }
 
+
 footer {
     margin: 50px 0;
+}
+
+/* Custom styles */
+
+#me {
+  width: 150px;
+  height: 200px;
+  border: 1px solid black;
+  border-radius: 10px;
+  margin-left: 5px;
+  float: right;
 }
