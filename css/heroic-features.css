@@ -35,3 +35,18 @@ footer {
   margin-left: 5px;
   float: right;
 }
+
+.light-text {
+  font-weight: bold;
+  color: #ffffff;
+  text-shadow: 2px 1px #050505;
+}
+
+#contact {
+  font-size: 40px;
+  float: right;
+}
+
+span a {
+  margin-left: 15px;
+}
